@@ -1,0 +1,25 @@
+{
+  "name": "node.js-postresql-class",
+  "version": "1.0.0",
+  "description": "Node.js için PostgreSQL veritabanı işleri yapan bir class örneği.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliKOCA/node.js-postresql-class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliKOCA/node.js-postresql-class/issues"
+  },
+  "homepage": "https://github.com/AliKOCA/node.js-postresql-class#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "pg": "^8.0.0"
+  }
+}
